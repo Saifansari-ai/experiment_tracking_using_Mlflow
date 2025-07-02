@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/9ec2306cb4ff47d5a4108ffc274573ef/artifacts
+end_time: 1751428583619
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9ec2306cb4ff47d5a4108ffc274573ef
+run_name: dashing-cow-415
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751428583149
+status: 4
+tags: []
+user_id: saif

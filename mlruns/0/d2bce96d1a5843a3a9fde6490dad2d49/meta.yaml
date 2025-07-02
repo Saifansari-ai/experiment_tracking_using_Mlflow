@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d2bce96d1a5843a3a9fde6490dad2d49/artifacts
+end_time: 1751428445647
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d2bce96d1a5843a3a9fde6490dad2d49
+run_name: nervous-lynx-302
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751428445108
+status: 4
+tags: []
+user_id: saif

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/4afaca8ba089438b91699440ec2ecfe7/artifacts
+end_time: 1751428775503
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4afaca8ba089438b91699440ec2ecfe7
+run_name: crawling-stork-965
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751428774595
+status: 4
+tags: []
+user_id: saif
