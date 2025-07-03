@@ -1,0 +1,14 @@
+artifact_uri: file:///home/saif/Desktop/mlops/experiment_tracking_using_Mlflow/mlruns/680744241466684064/91486dedc3ab4ecca495deb8f2f79127/artifacts
+end_time: 1751510235663
+entry_point_name: ''
+experiment_id: '680744241466684064'
+lifecycle_stage: active
+run_id: 91486dedc3ab4ecca495deb8f2f79127
+run_name: worried-calf-412
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751510229202
+status: 3
+tags: []
+user_id: saif

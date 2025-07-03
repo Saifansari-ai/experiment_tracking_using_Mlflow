@@ -20,8 +20,8 @@ y = wine.target
 X_train,x_test,y_train,y_test = train_test_split(x,y,test_size=0.10,random_state=42)
 
 # setting up parameter
-max_depth = 8
-n_estimators = 10
+max_depth = 10
+n_estimators = 15
 
 mlflow.set_experiment("Random-forest")
 

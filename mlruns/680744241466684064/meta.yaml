@@ -1,0 +1,6 @@
+artifact_location: file:///home/saif/Desktop/mlops/experiment_tracking_using_Mlflow/mlruns/680744241466684064
+creation_time: 1751510229119
+experiment_id: '680744241466684064'
+last_update_time: 1751510229119
+lifecycle_stage: active
+name: Random-forest

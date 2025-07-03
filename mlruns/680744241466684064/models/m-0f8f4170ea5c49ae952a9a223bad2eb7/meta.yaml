@@ -1,0 +1,10 @@
+artifact_location: file:///home/saif/Desktop/mlops/experiment_tracking_using_Mlflow/mlruns/680744241466684064/models/m-0f8f4170ea5c49ae952a9a223bad2eb7/artifacts
+creation_timestamp: 1751511959601
+experiment_id: '680744241466684064'
+last_updated_timestamp: 1751511963319
+model_id: m-0f8f4170ea5c49ae952a9a223bad2eb7
+model_type: null
+name: Random-forest classificatin
+source_run_id: d54e0af93d234e70ac46da9fedadb4b4
+status: 2
+status_message: null

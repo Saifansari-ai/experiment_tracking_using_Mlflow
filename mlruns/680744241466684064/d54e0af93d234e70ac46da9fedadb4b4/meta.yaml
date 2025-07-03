@@ -1,0 +1,14 @@
+artifact_uri: file:///home/saif/Desktop/mlops/experiment_tracking_using_Mlflow/mlruns/680744241466684064/d54e0af93d234e70ac46da9fedadb4b4/artifacts
+end_time: 1751511963322
+entry_point_name: ''
+experiment_id: '680744241466684064'
+lifecycle_stage: active
+run_id: d54e0af93d234e70ac46da9fedadb4b4
+run_name: adventurous-cod-719
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751511959082
+status: 3
+tags: []
+user_id: saif

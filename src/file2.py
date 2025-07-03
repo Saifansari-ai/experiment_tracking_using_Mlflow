@@ -7,9 +7,13 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score, confusion_matrix
 import matplotlib.pyplot as plt
 import seaborn as sns
+import dagshub
+import joblib
+import os
 
-# mlflow.set_tracking_uri("http://127.0.0.1:5000")
-# mlflow.set_tracking_uri('http://localhost:5000')
+dagshub.init(repo_owner='Saifansari-ai', repo_name='experiment_tracking_using_Mlflow', mlflow=True)
+
+mlflow.set_tracking_uri("https://dagshub.com/Saifansari-ai/experiment_tracking_using_Mlflow.mlflow")
 
 # load dataset
 wine = load_wine()
@@ -20,10 +24,10 @@ y = wine.target
 X_train,x_test,y_train,y_test = train_test_split(x,y,test_size=0.10,random_state=42)
 
 # setting up parameter
-max_depth = 8
-n_estimators = 10
+max_depth = 5
+n_estimators = 5
 
-mlflow.set_experiment("Random-forest")
+mlflow.set_experiment("mlflow-exp_2")
 
 with mlflow.start_run():
     rf = RandomForestClassifier(max_depth=max_depth,n_estimators=n_estimators)
@@ -47,13 +51,16 @@ with mlflow.start_run():
     plt.title('Confusion metrix')
 
     # save plot
-    plt.savefig("Confusion_metrix.png")
+    plt.savefig("Confusion_metrix_2.png")
 
     # log artifact using mlflow
-    mlflow.log_artifact("Confusion_metrix.png")
+    mlflow.log_artifact("Confusion_metrix_2.png")
     mlflow.log_artifact(__file__)
 
     mlflow.set_tags({'Auther':'Saif','Project':'Wine classification'})
 
-    mlflow.sklearn.log_model(rf,'Random-forest classificatin')
+    os.makedirs("models", exist_ok=True)
+    joblib.dump(rf, "models/random_forest_2.pkl")
+
+    mlflow.log_artifact("models/random_forest_2.pkl", artifact_path="model")
 
