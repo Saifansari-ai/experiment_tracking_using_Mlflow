@@ -1,0 +1,14 @@
+artifact_uri: file:///home/saif/Desktop/mlops/experiment_tracking_using_Mlflow/mlruns/239518906510357235/a70d05ae26b84f48831c8fa85c814605/artifacts
+end_time: 1751605543566
+entry_point_name: ''
+experiment_id: '239518906510357235'
+lifecycle_stage: active
+run_id: a70d05ae26b84f48831c8fa85c814605
+run_name: bald-seal-229
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751605543548
+status: 3
+tags: []
+user_id: saif

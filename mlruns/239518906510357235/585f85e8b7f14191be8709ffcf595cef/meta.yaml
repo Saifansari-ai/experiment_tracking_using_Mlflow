@@ -1,0 +1,14 @@
+artifact_uri: file:///home/saif/Desktop/mlops/experiment_tracking_using_Mlflow/mlruns/239518906510357235/585f85e8b7f14191be8709ffcf595cef/artifacts
+end_time: 1751605543473
+entry_point_name: ''
+experiment_id: '239518906510357235'
+lifecycle_stage: active
+run_id: 585f85e8b7f14191be8709ffcf595cef
+run_name: unequaled-pig-440
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751605543453
+status: 3
+tags: []
+user_id: saif

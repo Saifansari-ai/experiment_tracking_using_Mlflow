@@ -1,0 +1,14 @@
+artifact_uri: file:///home/saif/Desktop/mlops/experiment_tracking_using_Mlflow/mlruns/239518906510357235/5390e75df82e4e67a966a251426eba90/artifacts
+end_time: 1751605543522
+entry_point_name: ''
+experiment_id: '239518906510357235'
+lifecycle_stage: active
+run_id: 5390e75df82e4e67a966a251426eba90
+run_name: bouncy-hound-968
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751605543501
+status: 3
+tags: []
+user_id: saif

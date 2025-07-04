@@ -1,0 +1,14 @@
+artifact_uri: file:///home/saif/Desktop/mlops/experiment_tracking_using_Mlflow/mlruns/239518906510357235/3c6a5491f8aa4ca7824231e1249cb023/artifacts
+end_time: 1751605543323
+entry_point_name: ''
+experiment_id: '239518906510357235'
+lifecycle_stage: active
+run_id: 3c6a5491f8aa4ca7824231e1249cb023
+run_name: dashing-newt-136
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751605543302
+status: 3
+tags: []
+user_id: saif

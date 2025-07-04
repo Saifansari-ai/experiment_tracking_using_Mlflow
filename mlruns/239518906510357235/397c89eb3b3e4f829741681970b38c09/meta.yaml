@@ -1,0 +1,14 @@
+artifact_uri: file:///home/saif/Desktop/mlops/experiment_tracking_using_Mlflow/mlruns/239518906510357235/397c89eb3b3e4f829741681970b38c09/artifacts
+end_time: 1751605543448
+entry_point_name: ''
+experiment_id: '239518906510357235'
+lifecycle_stage: active
+run_id: 397c89eb3b3e4f829741681970b38c09
+run_name: intrigued-stag-307
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751605543427
+status: 3
+tags: []
+user_id: saif

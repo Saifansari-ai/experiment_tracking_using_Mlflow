@@ -1,0 +1,14 @@
+artifact_uri: file:///home/saif/Desktop/mlops/experiment_tracking_using_Mlflow/mlruns/239518906510357235/d636400ca51d45a4b3ade59b7df56d54/artifacts
+end_time: 1751605543423
+entry_point_name: ''
+experiment_id: '239518906510357235'
+lifecycle_stage: active
+run_id: d636400ca51d45a4b3ade59b7df56d54
+run_name: smiling-hog-355
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751605543405
+status: 3
+tags: []
+user_id: saif

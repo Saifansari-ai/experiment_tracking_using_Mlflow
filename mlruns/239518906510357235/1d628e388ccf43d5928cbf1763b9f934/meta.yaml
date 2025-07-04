@@ -1,0 +1,14 @@
+artifact_uri: file:///home/saif/Desktop/mlops/experiment_tracking_using_Mlflow/mlruns/239518906510357235/1d628e388ccf43d5928cbf1763b9f934/artifacts
+end_time: 1751605543297
+entry_point_name: ''
+experiment_id: '239518906510357235'
+lifecycle_stage: active
+run_id: 1d628e388ccf43d5928cbf1763b9f934
+run_name: gregarious-shrew-183
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751605543275
+status: 3
+tags: []
+user_id: saif

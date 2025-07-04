@@ -1,0 +1,14 @@
+artifact_uri: file:///home/saif/Desktop/mlops/experiment_tracking_using_Mlflow/mlruns/239518906510357235/af20ccbb3ee949468561026f81774eb5/artifacts
+end_time: 1751605543376
+entry_point_name: ''
+experiment_id: '239518906510357235'
+lifecycle_stage: active
+run_id: af20ccbb3ee949468561026f81774eb5
+run_name: serious-hen-226
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751605543355
+status: 3
+tags: []
+user_id: saif

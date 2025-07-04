@@ -1,0 +1,14 @@
+artifact_uri: file:///home/saif/Desktop/mlops/experiment_tracking_using_Mlflow/mlruns/239518906510357235/f104dcec688148e5adfc8c74d51c9c24/artifacts
+end_time: 1751605543401
+entry_point_name: ''
+experiment_id: '239518906510357235'
+lifecycle_stage: active
+run_id: f104dcec688148e5adfc8c74d51c9c24
+run_name: thoughtful-fox-453
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751605543381
+status: 3
+tags: []
+user_id: saif

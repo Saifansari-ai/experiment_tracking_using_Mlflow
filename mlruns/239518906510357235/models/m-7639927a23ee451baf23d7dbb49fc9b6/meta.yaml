@@ -1,0 +1,10 @@
+artifact_location: file:///home/saif/Desktop/mlops/experiment_tracking_using_Mlflow/mlruns/239518906510357235/models/m-7639927a23ee451baf23d7dbb49fc9b6/artifacts
+creation_timestamp: 1751605543661
+experiment_id: '239518906510357235'
+last_updated_timestamp: 1751605548621
+model_id: m-7639927a23ee451baf23d7dbb49fc9b6
+model_type: null
+name: random forest
+source_run_id: 286e52a0c4574da18566f5866054d8a5
+status: 2
+status_message: null
