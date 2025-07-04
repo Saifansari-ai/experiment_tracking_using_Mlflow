@@ -1,0 +1,14 @@
+artifact_uri: file:///home/saif/Desktop/mlops/experiment_tracking_using_Mlflow/mlruns/239518906510357235/209bb1cf31124d23b1ed041d6f88a2ee/artifacts
+end_time: 1751604091866
+entry_point_name: ''
+experiment_id: '239518906510357235'
+lifecycle_stage: active
+run_id: 209bb1cf31124d23b1ed041d6f88a2ee
+run_name: indecisive-horse-235
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751604083393
+status: 3
+tags: []
+user_id: saif

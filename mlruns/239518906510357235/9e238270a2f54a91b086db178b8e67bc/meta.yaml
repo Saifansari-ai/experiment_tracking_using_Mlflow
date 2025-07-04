@@ -1,0 +1,14 @@
+artifact_uri: file:///home/saif/Desktop/mlops/experiment_tracking_using_Mlflow/mlruns/239518906510357235/9e238270a2f54a91b086db178b8e67bc/artifacts
+end_time: 1751603896449
+entry_point_name: ''
+experiment_id: '239518906510357235'
+lifecycle_stage: active
+run_id: 9e238270a2f54a91b086db178b8e67bc
+run_name: persistent-eel-252
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751603887272
+status: 3
+tags: []
+user_id: saif

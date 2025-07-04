@@ -1,0 +1,6 @@
+artifact_location: file:///home/saif/Desktop/mlops/experiment_tracking_using_Mlflow/mlruns/239518906510357235
+creation_time: 1751603887196
+experiment_id: '239518906510357235'
+last_update_time: 1751603887196
+lifecycle_stage: active
+name: breast_cancer_rf_hy

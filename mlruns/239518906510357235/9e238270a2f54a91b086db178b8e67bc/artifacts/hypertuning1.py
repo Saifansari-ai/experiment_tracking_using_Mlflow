@@ -59,7 +59,7 @@ with mlflow.start_run():
 
     mlflow.log_artifact(__file__)
 
-    mlflow.sklearn.log_model(grid_search.best_estimator_,"random forest",input_example="random forest")
+    mlflow.sklearn.log_model(grid_search.best_estimator_,"random forest")
 
     mlflow.set_tag('auther','Saifansari')
 
